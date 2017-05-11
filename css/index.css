@@ -1,1 +1,44 @@
+html {
+  height: 100%;
+}
+body {
+  background: url(../images/mountain.jpg) no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+.earth-copy {
+  float: left;
+  width: 450px;
+  margin-left: 42px;
+  margin-top: -79px;
+}
+.search {
+  border-radius: 10px;
+  float: right;
+  font-size: 20px;
+  margin-right: 60px;
+  margin-top: -28px;
+  outline: none;
+  padding: 8px;
+  width: 300px;
+}
+footer {
+  bottom: 0;
+  left: 0;
+  padding: 10px;
+  position: absolute;
+  right: 0;
+}
+.coders {
+  bottom: 0;
+  color: lightgrey;
+  left: 0;
+  padding: 10px;
+  /*padding-top: 15px;*/
+  position: absolute;
+  right: 0;
+  text-align: right;
+}
 
+.song {
+  display: block;
